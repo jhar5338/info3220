@@ -1,0 +1,18 @@
+[SHIP]
+
+size=Large
+
+name=Bobbetta
+
+x=200
+control=config
+instructions=Left,Right,Left,Right,Left,Right,Left,Right,Left,Right,Left,Right,Left,Right,Left,Shoot
+frames=40
+[SWARM]
+
+position=200 100
+
+type=red
+
+move=L,R,
+shoot=1

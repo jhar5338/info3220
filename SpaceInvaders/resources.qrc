@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sounds/shoot.wav</file>
+        <file>Images/laser.png</file>
+        <file>Images/ship.png</file>
+        <file>Images/blueInvader.png</file>
+        <file>Images/redInvader.png</file>
+        <file>Images/blueInvaderLaser.png</file>
+        <file>Images/redInvaderLaser.png</file>
+        <file>Images/dumbInvader.png</file>
+        <file>Images/hunterInvader.png</file>
+        <file>Images/dumbInvaderLaser.png</file>
+        <file>Images/hunterInvaderLaser.png</file>
+        <file>Sounds/invader.wav</file>
+        <file>Sounds/death.wav</file>
+    </qresource>
+</RCC>

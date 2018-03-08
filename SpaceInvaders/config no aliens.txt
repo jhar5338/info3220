@@ -1,0 +1,10 @@
+[SHIP]
+
+size=Large
+
+name=Bobbetta
+
+x=200
+control=mouse
+instructions=Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot, Left,Left
+frames=40

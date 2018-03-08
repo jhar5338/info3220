@@ -1,0 +1,16 @@
+[SHIP]
+size=Large
+name=Bobbetta
+x=200
+instructions=Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot, Left,Left
+frames=90
+[SWARM]
+position=100 100, 200 100, 300 100, 400 100, 500 100, 100 300, 200 300, 300 300, 400 300, 500 300
+type=red
+move=L,U,L,D,L,R,R,R,R,R,R,R,R,R,R,R,R,L,R,L,R,L,L,R,R,R,L,L,R,R,R,R,R,L,L,R,R,L,L,L,L
+shoot=30000
+[SWARM]
+position=200 50, 200 80, 203 90, 203 100, 203 150, 197 100
+type=dumb
+move=L,R,L,L,R,L,R,L,R,L,R,L
+shoot=300000

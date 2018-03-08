@@ -1,0 +1,11 @@
+[SHIP]
+size=Tiny
+name=Bobbetta
+x=200
+instructions=Shoot,Left,Left,Left,Right,Left,Shoot, Left, Left, Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot, Left,Left
+frames=90
+[SWARM]
+position=100 250
+type=red
+move=R,R,R,R,R,R,R,R,R,R
+shoot=30000

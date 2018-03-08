@@ -1,0 +1,16 @@
+[SHIP]
+size=Large
+name=Bobbetta
+x=200
+control=mouse
+
+instructions=Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot,Left,Right,Right,Right,Left,Shoot, Left, Left, Shoot, Left,Left
+frames=90
+
+
+[SWARM]
+position=200 100, 1000 100,100 100,400 100
+
+type=hunter
+move=
+shoot=3
